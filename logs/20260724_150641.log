@@ -1,0 +1,12 @@
+15:06:41 [INFO] Logging initialized - Session file: 20260724_150641.log
+15:06:42 [INFO] ============================================================
+15:06:42 [INFO] PCAP StoryTeller - Initializing Backend Web Server
+15:06:42 [INFO] ============================================================
+15:06:42 [INFO] Maximum upload size set to: 1GB
+15:06:42 [INFO] Temporary upload directory: /Users/adhok./Desktop/PCAP Storyteller/backend/core/../uploads
+15:06:42 [INFO] API routes successfully registered.
+15:07:29 [INFO] Successfully loaded 123 forensic events.
+15:07:42 [INFO] Successfully loaded 123 forensic events.
+15:08:27 [INFO] Successfully loaded 123 forensic events.
+15:08:27 [INFO] Starting forensic analytics on 123 events
+15:08:28 [INFO] Successfully loaded 123 forensic events.

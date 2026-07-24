@@ -1,0 +1,30 @@
+15:16:48 [INFO] Logging initialized - Session file: 20260724_151648.log
+15:16:49 [INFO] ============================================================
+15:16:49 [INFO] PCAP StoryTeller - Initializing Backend Web Server
+15:16:49 [INFO] ============================================================
+15:16:49 [INFO] Maximum upload size set to: 1GB
+15:16:49 [INFO] Temporary upload directory: /Users/adhok./Desktop/PCAP Storyteller/backend/core/../uploads
+15:16:49 [INFO] API routes successfully registered.
+15:19:03 [INFO] Upload attempt: filename='EK_MALWARE_2013-12-27_mailware-traffic-analysis.net.pcap', allowed_extensions={'cap', 'pcapng', 'pcap'}
+15:19:03 [INFO] File validated: EK_MALWARE_2013-12-27_mailware-traffic-analysis.net.pcap
+15:19:03 [INFO] Saved uploaded file to /Users/adhok./Desktop/PCAP Storyteller/backend/core/../uploads/bff7cef4479d4a3cb2c424a97bc5d50b_EK_MALWARE_2013-12-27_mailware-traffic-analysis.net.pcap
+15:19:03 [INFO] Running PCAP parser: /Users/adhok./Desktop/PCAP Storyteller/.venv/bin/python /Users/adhok./Desktop/PCAP Storyteller/backend/utils/../parsers/pcap_parser.py
+15:19:06 [INFO] Parser return code: 0
+15:19:06 [INFO] Parser output: [*] Loading network capture: /Users/adhok./Desktop/PCAP Storyteller/backend/core/../uploads/bff7cef4479d4a3cb2c424a97bc5d50b_EK_MALWARE_2013-12-27_mailware-traffic-analysis.net.pcap
+[+] Successfully e
+15:19:06 [WARNING] Parser errors: 15:19:05 [INFO] Logging initialized - Session file: 20260724_151905.log
+15:19:05 [INFO] Forensic findings successfully saved to the 'Brain'.
+
+15:19:06 [INFO] Successfully parsed PCAP file, generated 123 events
+15:19:47 [INFO] Successfully loaded 123 forensic events.
+15:19:47 [INFO] Starting forensic analytics on 123 events
+15:19:51 [INFO] Successfully loaded 123 forensic events.
+15:20:22 [INFO] Successfully loaded 123 forensic events.
+15:20:36 [INFO] Successfully loaded 123 forensic events.
+15:20:38 [INFO] Successfully loaded 123 forensic events.
+15:20:42 [INFO] Successfully loaded 123 forensic events.
+15:20:45 [INFO] Successfully loaded 123 forensic events.
+15:20:49 [INFO] Successfully loaded 123 forensic events.
+15:20:56 [INFO] Successfully loaded 123 forensic events.
+15:22:01 [INFO] Successfully loaded 123 forensic events.
+15:22:01 [INFO] Starting forensic analytics on 123 events
