@@ -33,38 +33,48 @@ A tour through the live dashboard — from the raw attack graph to the exported 
 
 ### 🕸️ Interactive Attack Graph
 Automatically links DNS queries, TCP connections, and HTTP requests into a single explorable node graph, so relationships between events are visible at a glance instead of buried in a packet list.
+<img width="1511" height="812" alt="image" src="https://github.com/user-attachments/assets/ea56d9d5-7879-411c-a994-6f6632ed4ba7" />
 
-![Attack Graph](screenshots/01_attack_graph.png)
 
 ### 📊 Network Intelligence Dashboard
 A real-time statistical breakdown of the capture — total events, unique sources, traffic-type distribution, and top talkers — giving investigators an immediate sense of scale and shape.
+<img width="1552" height="784" alt="image" src="https://github.com/user-attachments/assets/99cdd1da-495e-4918-bdda-7c9ff47c41d0" />
 
-![Analytics Dashboard](screenshots/02_analytics_dashboard.png)
+
+
 
 ### 🔍 Deep-Dive Analytics
 Drill further into top destinations and the most frequently used ports to spot anomalies such as unusual concentration of traffic on a single port.
+<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/b678cdc3-e758-4bde-aa84-9b51f99865a3" />
 
-![Analytics Details](screenshots/03_analytics_details.png)
+
 
 ### ☣️ Threat Intelligence Engine
 Behavioral heuristics — not just signature matching — surface attack patterns like port scanning and DNS tunneling, each scored and labeled by severity (HIGH / MEDIUM / LOW).
 
-![Threat Intelligence](screenshots/04_threat_intelligence.png)
+<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/d2735c32-eaf2-4c68-8e81-9116ac97e5d5" />
+
+
+
 
 ### 🌍 Global Incident Map
 Every IP address involved in the capture is geolocated and pinned on an interactive map, making it easy to see whether traffic is domestic or originating from unexpected regions.
+<img width="1400" height="841" alt="image" src="https://github.com/user-attachments/assets/5be1052d-8a3e-4ae3-98b8-0291da4a198d" />
 
-![Global Incident Map](screenshots/05_global_map.png)
+
+
 
 ### ⏱️ Forensic Timeline
 A high-resolution, chronological reconstruction of every network event, letting investigators replay the exact sequence of a session second by second.
+<img width="1561" height="784" alt="image" src="https://github.com/user-attachments/assets/44025985-e62c-4575-a047-9c7c14bbac98" />
 
-![Forensic Timeline](screenshots/06_forensic_timeline.png)
+
+
 
 ### 📄 Export Forensics Report
 Generate a polished executive summary — as a PDF or Word document — complete with event counts, detected patterns, and full transaction logs, ready to hand off or archive.
+<img width="1512" height="808" alt="image" src="https://github.com/user-attachments/assets/5d8600ca-66ae-4521-b7dc-4a961cc4d301" />
 
-![Export Report](screenshots/07_export_report.png)
 
 ---
 
