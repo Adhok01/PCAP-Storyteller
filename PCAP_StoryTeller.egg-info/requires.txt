@@ -1,0 +1,12 @@
+flask
+scapy
+scapy-http
+reportlab
+python-docx
+requests
+geoip2
+maxminddb
+folium
+chart-studio
+setuptools
+clear
