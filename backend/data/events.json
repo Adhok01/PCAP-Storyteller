@@ -1,0 +1,1742 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "timestamp": 1388111476.723394,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "173.194.115.80",
+      "details": {
+        "sport": 49209,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49209 -> 173.194.115.80:80"
+    },
+    {
+      "id": 2,
+      "timestamp": 1388111476.723751,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "173.194.115.80",
+      "details": {
+        "sport": 49210,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49210 -> 173.194.115.80:80"
+    },
+    {
+      "id": 3,
+      "timestamp": 1388111476.787264,
+      "type": "TCP Connection",
+      "source_ip": "173.194.115.80",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49209
+      },
+      "description": "TCP Connection Started: 173.194.115.80:80 -> 192.168.1.138:49209"
+    },
+    {
+      "id": 4,
+      "timestamp": 1388111476.794498,
+      "type": "TCP Connection",
+      "source_ip": "173.194.115.80",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49210
+      },
+      "description": "TCP Connection Started: 173.194.115.80:80 -> 192.168.1.138:49210"
+    },
+    {
+      "id": 5,
+      "timestamp": 1388111476.945333,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "74.220.203.53",
+      "details": {
+        "sport": 49211,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49211 -> 74.220.203.53:80"
+    },
+    {
+      "id": 6,
+      "timestamp": 1388111476.988847,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49212,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49212 -> 188.116.34.246:80"
+    },
+    {
+      "id": 7,
+      "timestamp": 1388111476.989125,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49213,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49213 -> 188.116.34.246:80"
+    },
+    {
+      "id": 8,
+      "timestamp": 1388111476.989314,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49214,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49214 -> 188.116.34.246:80"
+    },
+    {
+      "id": 9,
+      "timestamp": 1388111476.989499,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49215,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49215 -> 188.116.34.246:80"
+    },
+    {
+      "id": 10,
+      "timestamp": 1388111476.989732,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49216,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49216 -> 188.116.34.246:80"
+    },
+    {
+      "id": 11,
+      "timestamp": 1388111476.989941,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49217,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49217 -> 188.116.34.246:80"
+    },
+    {
+      "id": 12,
+      "timestamp": 1388111477.005002,
+      "type": "TCP Connection",
+      "source_ip": "74.220.203.53",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49211
+      },
+      "description": "TCP Connection Started: 74.220.203.53:80 -> 192.168.1.138:49211"
+    },
+    {
+      "id": 13,
+      "timestamp": 1388111477.043117,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "146.255.46.1",
+      "details": {
+        "sport": 49218,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49218 -> 146.255.46.1:80"
+    },
+    {
+      "id": 14,
+      "timestamp": 1388111477.043441,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "93.170.131.2",
+      "details": {
+        "sport": 49219,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49219 -> 93.170.131.2:80"
+    },
+    {
+      "id": 15,
+      "timestamp": 1388111477.052609,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "66.225.230.141",
+      "details": {
+        "sport": 49220,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49220 -> 66.225.230.141:80"
+    },
+    {
+      "id": 16,
+      "timestamp": 1388111477.052845,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "66.225.230.141",
+      "details": {
+        "sport": 49221,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49221 -> 66.225.230.141:80"
+    },
+    {
+      "id": 17,
+      "timestamp": 1388111477.1421,
+      "type": "TCP Connection",
+      "source_ip": "66.225.230.141",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49220
+      },
+      "description": "TCP Connection Started: 66.225.230.141:80 -> 192.168.1.138:49220"
+    },
+    {
+      "id": 18,
+      "timestamp": 1388111477.149265,
+      "type": "TCP Connection",
+      "source_ip": "66.225.230.141",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49221
+      },
+      "description": "TCP Connection Started: 66.225.230.141:80 -> 192.168.1.138:49221"
+    },
+    {
+      "id": 19,
+      "timestamp": 1388111477.165413,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49212
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49212"
+    },
+    {
+      "id": 20,
+      "timestamp": 1388111477.182111,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49213
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49213"
+    },
+    {
+      "id": 21,
+      "timestamp": 1388111477.189394,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49214
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49214"
+    },
+    {
+      "id": 22,
+      "timestamp": 1388111477.198037,
+      "type": "TCP Connection",
+      "source_ip": "146.255.46.1",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49218
+      },
+      "description": "TCP Connection Started: 146.255.46.1:80 -> 192.168.1.138:49218"
+    },
+    {
+      "id": 23,
+      "timestamp": 1388111477.204679,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49215
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49215"
+    },
+    {
+      "id": 24,
+      "timestamp": 1388111477.212419,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49217
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49217"
+    },
+    {
+      "id": 25,
+      "timestamp": 1388111477.22009,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49216
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49216"
+    },
+    {
+      "id": 26,
+      "timestamp": 1388111477.294958,
+      "type": "TCP Connection",
+      "source_ip": "93.170.131.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49219
+      },
+      "description": "TCP Connection Started: 93.170.131.2:80 -> 192.168.1.138:49219"
+    },
+    {
+      "id": 27,
+      "timestamp": 1388111477.303537,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "93.95.103.12",
+      "details": {
+        "sport": 49222,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49222 -> 93.95.103.12:80"
+    },
+    {
+      "id": 28,
+      "timestamp": 1388111477.511323,
+      "type": "TCP Connection",
+      "source_ip": "93.95.103.12",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49222
+      },
+      "description": "TCP Connection Started: 93.95.103.12:80 -> 192.168.1.138:49222"
+    },
+    {
+      "id": 29,
+      "timestamp": 1388111477.947913,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "194.116.187.24",
+      "details": {
+        "sport": 49223,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49223 -> 194.116.187.24:80"
+    },
+    {
+      "id": 30,
+      "timestamp": 1388111478.122288,
+      "type": "TCP Connection",
+      "source_ip": "194.116.187.24",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49223
+      },
+      "description": "TCP Connection Started: 194.116.187.24:80 -> 192.168.1.138:49223"
+    },
+    {
+      "id": 31,
+      "timestamp": 1388111479.553636,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49224,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49224 -> 188.116.34.246:80"
+    },
+    {
+      "id": 32,
+      "timestamp": 1388111479.730735,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49224
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49224"
+    },
+    {
+      "id": 33,
+      "timestamp": 1388111482.267634,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "206.190.56.190",
+      "details": {
+        "sport": 49225,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49225 -> 206.190.56.190:80"
+    },
+    {
+      "id": 34,
+      "timestamp": 1388111482.267886,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "206.190.56.190",
+      "details": {
+        "sport": 49226,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49226 -> 206.190.56.190:80"
+    },
+    {
+      "id": 35,
+      "timestamp": 1388111482.360305,
+      "type": "TCP Connection",
+      "source_ip": "206.190.56.190",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49225
+      },
+      "description": "TCP Connection Started: 206.190.56.190:80 -> 192.168.1.138:49225"
+    },
+    {
+      "id": 36,
+      "timestamp": 1388111482.368312,
+      "type": "TCP Connection",
+      "source_ip": "206.190.56.190",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49226
+      },
+      "description": "TCP Connection Started: 206.190.56.190:80 -> 192.168.1.138:49226"
+    },
+    {
+      "id": 37,
+      "timestamp": 1388111486.822849,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49227,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49227 -> 188.116.34.246:80"
+    },
+    {
+      "id": 38,
+      "timestamp": 1388111486.823148,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49228,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49228 -> 188.116.34.246:80"
+    },
+    {
+      "id": 39,
+      "timestamp": 1388111486.823403,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49229,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49229 -> 188.116.34.246:80"
+    },
+    {
+      "id": 40,
+      "timestamp": 1388111486.823651,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49230,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49230 -> 188.116.34.246:80"
+    },
+    {
+      "id": 41,
+      "timestamp": 1388111486.823899,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49231,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49231 -> 188.116.34.246:80"
+    },
+    {
+      "id": 42,
+      "timestamp": 1388111486.999035,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49227
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49227"
+    },
+    {
+      "id": 43,
+      "timestamp": 1388111487.012635,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49228
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49228"
+    },
+    {
+      "id": 44,
+      "timestamp": 1388111487.020171,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49229
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49229"
+    },
+    {
+      "id": 45,
+      "timestamp": 1388111487.03418,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49231
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49231"
+    },
+    {
+      "id": 46,
+      "timestamp": 1388111487.041587,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49230
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49230"
+    },
+    {
+      "id": 47,
+      "timestamp": 1388111495.291601,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49232,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49232 -> 188.116.34.246:80"
+    },
+    {
+      "id": 48,
+      "timestamp": 1388111495.29199,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49233,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49233 -> 188.116.34.246:80"
+    },
+    {
+      "id": 49,
+      "timestamp": 1388111495.467398,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49232
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49232"
+    },
+    {
+      "id": 50,
+      "timestamp": 1388111495.479821,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49233
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49233"
+    },
+    {
+      "id": 51,
+      "timestamp": 1388111496.313304,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "sport": 49234,
+        "dport": 80
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49234 -> 188.116.34.246:80"
+    },
+    {
+      "id": 52,
+      "timestamp": 1388111496.489001,
+      "type": "TCP Connection",
+      "source_ip": "188.116.34.246",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 80,
+        "dport": 49234
+      },
+      "description": "TCP Connection Started: 188.116.34.246:80 -> 192.168.1.138:49234"
+    },
+    {
+      "id": 53,
+      "timestamp": 1388111518.694536,
+      "type": "TCP Connection",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "23.204.208.60",
+      "details": {
+        "sport": 49235,
+        "dport": 443
+      },
+      "description": "TCP Connection Started: 192.168.1.138:49235 -> 23.204.208.60:443"
+    },
+    {
+      "id": 54,
+      "timestamp": 1388111518.733605,
+      "type": "TCP Connection",
+      "source_ip": "23.204.208.60",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "sport": 443,
+        "dport": 49235
+      },
+      "description": "TCP Connection Started: 23.204.208.60:443 -> 192.168.1.138:49235"
+    },
+    {
+      "id": 55,
+      "timestamp": 1388111475.534511,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www.google.com"
+      },
+      "description": "DNS Question: What is the IP for www.google.com?"
+    },
+    {
+      "id": 56,
+      "timestamp": 1388111475.555149,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www.google.com",
+        "ip": "173.194.115.80"
+      },
+      "description": "DNS Answer: www.google.com is at 173.194.115.80"
+    },
+    {
+      "id": 57,
+      "timestamp": 1388111475.555149,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www.google.com",
+        "ip": "173.194.115.81"
+      },
+      "description": "DNS Answer: www.google.com is at 173.194.115.81"
+    },
+    {
+      "id": 58,
+      "timestamp": 1388111475.555149,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www.google.com",
+        "ip": "173.194.115.82"
+      },
+      "description": "DNS Answer: www.google.com is at 173.194.115.82"
+    },
+    {
+      "id": 59,
+      "timestamp": 1388111475.555149,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www.google.com",
+        "ip": "173.194.115.83"
+      },
+      "description": "DNS Answer: www.google.com is at 173.194.115.83"
+    },
+    {
+      "id": 60,
+      "timestamp": 1388111475.555149,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www.google.com",
+        "ip": "173.194.115.84"
+      },
+      "description": "DNS Answer: www.google.com is at 173.194.115.84"
+    },
+    {
+      "id": 61,
+      "timestamp": 1388111476.787707,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "173.194.115.80",
+      "details": {
+        "method": "GET",
+        "uri": "/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.butch-femme.com%2Farchive%2Findex.php%2Ft-7747.html&ei=VLe8Up7fAuqG2gWmh4GICA&usg=AFQjCNFOHP50Z-lVfPuwAyj_wmtR6i8YHw&sig2=K6jndeyDFmvsonCImht5MA&bvm=bv.58187178,d.b2I"
+      },
+      "description": "Web Request: GET /url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.butch-femme.com%2Farchive%2Findex.php%2Ft-7747.html&ei=VLe8Up7fAuqG2gWmh4GICA&usg=AFQjCNFOHP50Z-lVfPuwAyj_wmtR6i8YHw&sig2=K6jndeyDFmvsonCImht5MA&bvm=bv.58187178,d.b2I"
+    },
+    {
+      "id": 62,
+      "timestamp": 1388111476.921506,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www.butch-femme.com"
+      },
+      "description": "DNS Question: What is the IP for www.butch-femme.com?"
+    },
+    {
+      "id": 63,
+      "timestamp": 1388111476.921812,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz"
+      },
+      "description": "DNS Question: What is the IP for gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz?"
+    },
+    {
+      "id": 64,
+      "timestamp": 1388111476.922459,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "bholaschildrenfoundation.com"
+      },
+      "description": "DNS Question: What is the IP for bholaschildrenfoundation.com?"
+    },
+    {
+      "id": 65,
+      "timestamp": 1388111476.922778,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "answers-to.com"
+      },
+      "description": "DNS Question: What is the IP for answers-to.com?"
+    },
+    {
+      "id": 66,
+      "timestamp": 1388111476.924021,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "uskana.tv"
+      },
+      "description": "DNS Question: What is the IP for uskana.tv?"
+    },
+    {
+      "id": 67,
+      "timestamp": 1388111476.924344,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "essnk.ru"
+      },
+      "description": "DNS Question: What is the IP for essnk.ru?"
+    },
+    {
+      "id": 68,
+      "timestamp": 1388111476.925067,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www3.k88t9rilh62bvw1nu39.4pu.com"
+      },
+      "description": "DNS Question: What is the IP for www3.k88t9rilh62bvw1nu39.4pu.com?"
+    },
+    {
+      "id": 69,
+      "timestamp": 1388111476.944913,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "answers-to.com",
+        "ip": "74.220.203.53"
+      },
+      "description": "DNS Answer: answers-to.com is at 74.220.203.53"
+    },
+    {
+      "id": 70,
+      "timestamp": 1388111476.988418,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www3.k88t9rilh62bvw1nu39.4pu.com",
+        "ip": "188.116.34.246"
+      },
+      "description": "DNS Answer: www3.k88t9rilh62bvw1nu39.4pu.com is at 188.116.34.246"
+    },
+    {
+      "id": 71,
+      "timestamp": 1388111477.042461,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz",
+        "ip": "93.170.131.2"
+      },
+      "description": "DNS Answer: gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz is at 93.170.131.2"
+    },
+    {
+      "id": 72,
+      "timestamp": 1388111477.04263,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "uskana.tv",
+        "ip": "146.255.46.1"
+      },
+      "description": "DNS Answer: uskana.tv is at 146.255.46.1"
+    },
+    {
+      "id": 73,
+      "timestamp": 1388111477.05217,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "butch-femme.com",
+        "ip": "66.225.230.141"
+      },
+      "description": "DNS Answer: butch-femme.com is at 66.225.230.141"
+    },
+    {
+      "id": 74,
+      "timestamp": 1388111477.142485,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "66.225.230.141",
+      "details": {
+        "method": "GET",
+        "uri": "/archive/index.php/t-7747.html"
+      },
+      "description": "Web Request: GET /archive/index.php/t-7747.html"
+    },
+    {
+      "id": 75,
+      "timestamp": 1388111477.303078,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "essnk.ru",
+        "ip": "93.95.103.12"
+      },
+      "description": "DNS Answer: essnk.ru is at 93.95.103.12"
+    },
+    {
+      "id": 76,
+      "timestamp": 1388111477.382351,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "93.170.131.2",
+      "details": {
+        "method": "GET",
+        "uri": "/1.php"
+      },
+      "description": "Web Request: GET /1.php"
+    },
+    {
+      "id": 77,
+      "timestamp": 1388111477.924827,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "bholaschildrenfoundation.com"
+      },
+      "description": "DNS Question: What is the IP for bholaschildrenfoundation.com?"
+    },
+    {
+      "id": 78,
+      "timestamp": 1388111477.947398,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "bholaschildrenfoundation.com",
+        "ip": "194.116.187.24"
+      },
+      "description": "DNS Answer: bholaschildrenfoundation.com is at 194.116.187.24"
+    },
+    {
+      "id": 79,
+      "timestamp": 1388111477.960094,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "bholaschildrenfoundation.com",
+        "ip": "194.116.187.24"
+      },
+      "description": "DNS Answer: bholaschildrenfoundation.com is at 194.116.187.24"
+    },
+    {
+      "id": 80,
+      "timestamp": 1388111478.122647,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "194.116.187.24",
+      "details": {
+        "method": "GET",
+        "uri": "/cache/joomfish-cache/cache.php"
+      },
+      "description": "Web Request: GET /cache/joomfish-cache/cache.php"
+    },
+    {
+      "id": 81,
+      "timestamp": 1388111478.791157,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "74.220.203.53",
+      "details": {
+        "method": "GET",
+        "uri": "/includes/domit/1.php"
+      },
+      "description": "Web Request: GET /includes/domit/1.php"
+    },
+    {
+      "id": 82,
+      "timestamp": 1388111478.928841,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "146.255.46.1",
+      "details": {
+        "method": "GET",
+        "uri": "/web/administrator/help/en-GB/css/all4.php"
+      },
+      "description": "Web Request: GET /web/administrator/help/en-GB/css/all4.php"
+    },
+    {
+      "id": 83,
+      "timestamp": 1388111479.092094,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "93.95.103.12",
+      "details": {
+        "method": "GET",
+        "uri": "/templates/madeyourweb/1.php?uid=11860"
+      },
+      "description": "Web Request: GET /templates/madeyourweb/1.php?uid=11860"
+    },
+    {
+      "id": 84,
+      "timestamp": 1388111479.291795,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/?vfoiwabm=mtbYzbSUiOLUnHWlaqqfnI6ipZ%2BjqVfi6Z92qpejn6qRmqOkbpyY&208a6d38=%01%01%01%01%08%02%08%00%08%07"
+      },
+      "description": "Web Request: GET /?vfoiwabm=mtbYzbSUiOLUnHWlaqqfnI6ipZ%2BjqVfi6Z92qpejn6qRmqOkbpyY&208a6d38=%01%01%01%01%08%02%08%00%08%07"
+    },
+    {
+      "id": 85,
+      "timestamp": 1388111479.497272,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www1.v5ipk3gc8hug1du9459.4pu.com"
+      },
+      "description": "DNS Question: What is the IP for www1.v5ipk3gc8hug1du9459.4pu.com?"
+    },
+    {
+      "id": 86,
+      "timestamp": 1388111479.553196,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www1.v5ipk3gc8hug1du9459.4pu.com",
+        "ip": "188.116.34.246"
+      },
+      "description": "DNS Answer: www1.v5ipk3gc8hug1du9459.4pu.com is at 188.116.34.246"
+    },
+    {
+      "id": 87,
+      "timestamp": 1388111479.731096,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/mdpgg?z3okclu3b7=npXZ2KDg6JrcpeZb3tnPcJiUcJ6ljaHN2XZnW5rcleGotcDAWc6qs2edoZGi2qCv3qyNk83ZdpaUgr9kn5HY1Nuqn6Dio8rUkZbKoI27m9ChoatvYmtyqGanmZSdrlnVq9ep3uOoZI3aocyymGGaqV%2BoqaW3Z6CfmZ%2Bla5hwrJmP5N5wmJZwoKaYYpisclqZqOeU2Nmg4%2ByqlWXhbaHkpKXQz6Cep8mn26anqWhyqGff4JHP5KCIrOOgptjSocrWpMub2ZbKsqGoqamfZrCQlbKaZaiu7ayX19qizs%2BdltjWnomnf6mnpZ9mtd7Ekah31lyoa9vT31iap6KNp52iiah9WWdv36bhzoifuaaHaayo2OXdlsyIa6zszJOJp2%2BXmV6td6CQlaLrmMZcqXmZs66quKmiqbaMY5rqq6BabL6b49%2FTkadolXibZ56isViZmGqu7N6okteuqJihp5nU2NDRo5bRpJtnnqKxlNnGoNHrzFaWqmt6nqfemOeZ09TlWJRsqHvdnaJqm5pm0OnUnYmnb5meXq13xbfIpMqjmZ23qtq3nZq%2B0KCcvLB0pZpraqqs4Viir6Syxp2lhbyEscCgY8GQpL7bt6bbtrKelLDnp8GhzKTOe9lcqGvc2dJljJZ8s6vRn8jasnh7pvCm3tmmteKb1mzDdo6ioZXd0F2bucmnkqpxZW1wq2qnkJWv2WHEab9Z"
+      },
+      "description": "Web Request: GET /mdpgg?z3okclu3b7=npXZ2KDg6JrcpeZb3tnPcJiUcJ6ljaHN2XZnW5rcleGotcDAWc6qs2edoZGi2qCv3qyNk83ZdpaUgr9kn5HY1Nuqn6Dio8rUkZbKoI27m9ChoatvYmtyqGanmZSdrlnVq9ep3uOoZI3aocyymGGaqV%2BoqaW3Z6CfmZ%2Bla5hwrJmP5N5wmJZwoKaYYpisclqZqOeU2Nmg4%2ByqlWXhbaHkpKXQz6Cep8mn26anqWhyqGff4JHP5KCIrOOgptjSocrWpMub2ZbKsqGoqamfZrCQlbKaZaiu7ayX19qizs%2BdltjWnomnf6mnpZ9mtd7Ekah31lyoa9vT31iap6KNp52iiah9WWdv36bhzoifuaaHaayo2OXdlsyIa6zszJOJp2%2BXmV6td6CQlaLrmMZcqXmZs66quKmiqbaMY5rqq6BabL6b49%2FTkadolXibZ56isViZmGqu7N6okteuqJihp5nU2NDRo5bRpJtnnqKxlNnGoNHrzFaWqmt6nqfemOeZ09TlWJRsqHvdnaJqm5pm0OnUnYmnb5meXq13xbfIpMqjmZ23qtq3nZq%2B0KCcvLB0pZpraqqs4Viir6Syxp2lhbyEscCgY8GQpL7bt6bbtrKelLDnp8GhzKTOe9lcqGvc2dJljJZ8s6vRn8jasnh7pvCm3tmmteKb1mzDdo6ioZXd0F2bucmnkqpxZW1wq2qnkJWv2WHEab9Z"
+    },
+    {
+      "id": 88,
+      "timestamp": 1388111479.968603,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/ff464b.js"
+      },
+      "description": "Web Request: GET /ff464b.js"
+    },
+    {
+      "id": 89,
+      "timestamp": 1388111481.169949,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/i.html"
+      },
+      "description": "Web Request: GET /i.html"
+    },
+    {
+      "id": 90,
+      "timestamp": 1388111481.400438,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/nnnnvdd.html"
+      },
+      "description": "Web Request: GET /nnnnvdd.html"
+    },
+    {
+      "id": 91,
+      "timestamp": 1388111482.24764,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "l.yimg.com"
+      },
+      "description": "DNS Question: What is the IP for l.yimg.com?"
+    },
+    {
+      "id": 92,
+      "timestamp": 1388111482.267186,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "ds-fo-anyycs-l.ay1.b.yahoodns.net",
+        "ip": "206.190.56.190"
+      },
+      "description": "DNS Answer: ds-fo-anyycs-l.ay1.b.yahoodns.net is at 206.190.56.190"
+    },
+    {
+      "id": 93,
+      "timestamp": 1388111482.267186,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "ds-fo-anyycs-l.ay1.b.yahoodns.net",
+        "ip": "206.190.56.191"
+      },
+      "description": "DNS Answer: ds-fo-anyycs-l.ay1.b.yahoodns.net is at 206.190.56.191"
+    },
+    {
+      "id": 94,
+      "timestamp": 1388111482.360591,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "206.190.56.190",
+      "details": {
+        "method": "GET",
+        "uri": "/eur.yimg.com/i/fr/hp/lrec.jpg"
+      },
+      "description": "Web Request: GET /eur.yimg.com/i/fr/hp/lrec.jpg"
+    },
+    {
+      "id": 95,
+      "timestamp": 1388111486.392734,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/jply.html"
+      },
+      "description": "Web Request: GET /jply.html"
+    },
+    {
+      "id": 96,
+      "timestamp": 1388111486.822345,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/favicon.ico"
+      },
+      "description": "Web Request: GET /favicon.ico"
+    },
+    {
+      "id": 97,
+      "timestamp": 1388111486.992352,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/4fNWGlBi.jpg"
+      },
+      "description": "Web Request: GET /cl/24/4fNWGlBi.jpg"
+    },
+    {
+      "id": 98,
+      "timestamp": 1388111486.999332,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/spacer.gif"
+      },
+      "description": "Web Request: GET /cl/24/spacer.gif"
+    },
+    {
+      "id": 99,
+      "timestamp": 1388111487.012956,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/pixel-vf.gif"
+      },
+      "description": "Web Request: GET /cl/24/pixel-vf.gif"
+    },
+    {
+      "id": 100,
+      "timestamp": 1388111487.020503,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/4fNWGlpi.jpg"
+      },
+      "description": "Web Request: GET /cl/24/4fNWGlpi.jpg"
+    },
+    {
+      "id": 101,
+      "timestamp": 1388111487.034579,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/G-2MkEnT.jpg"
+      },
+      "description": "Web Request: GET /cl/24/G-2MkEnT.jpg"
+    },
+    {
+      "id": 102,
+      "timestamp": 1388111487.0424,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/KXXmKchx.jpg"
+      },
+      "description": "Web Request: GET /cl/24/KXXmKchx.jpg"
+    },
+    {
+      "id": 103,
+      "timestamp": 1388111487.16312,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/0CiUx84v.jpg"
+      },
+      "description": "Web Request: GET /cl/24/0CiUx84v.jpg"
+    },
+    {
+      "id": 104,
+      "timestamp": 1388111487.170618,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/0CiUx84n.jpg"
+      },
+      "description": "Web Request: GET /cl/24/0CiUx84n.jpg"
+    },
+    {
+      "id": 105,
+      "timestamp": 1388111487.191402,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/emma.jpg"
+      },
+      "description": "Web Request: GET /cl/24/emma.jpg"
+    },
+    {
+      "id": 106,
+      "timestamp": 1388111487.197397,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/loader.gif"
+      },
+      "description": "Web Request: GET /cl/24/loader.gif"
+    },
+    {
+      "id": 107,
+      "timestamp": 1388111487.212925,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/play_button.png"
+      },
+      "description": "Web Request: GET /cl/24/play_button.png"
+    },
+    {
+      "id": 108,
+      "timestamp": 1388111487.22889,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/play_button_on.png"
+      },
+      "description": "Web Request: GET /cl/24/play_button_on.png"
+    },
+    {
+      "id": 109,
+      "timestamp": 1388111487.336546,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/www-mast.png"
+      },
+      "description": "Web Request: GET /cl/24/www-mast.png"
+    },
+    {
+      "id": 110,
+      "timestamp": 1388111487.34232,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/update3.gif"
+      },
+      "description": "Web Request: GET /cl/24/update3.gif"
+    },
+    {
+      "id": 111,
+      "timestamp": 1388111487.424327,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/progressbar.gif"
+      },
+      "description": "Web Request: GET /cl/24/progressbar.gif"
+    },
+    {
+      "id": 112,
+      "timestamp": 1388111487.432306,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/progressbar_green.gif"
+      },
+      "description": "Web Request: GET /cl/24/progressbar_green.gif"
+    },
+    {
+      "id": 113,
+      "timestamp": 1388111487.432622,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/player.png"
+      },
+      "description": "Web Request: GET /cl/24/player.png"
+    },
+    {
+      "id": 114,
+      "timestamp": 1388111487.51859,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/cl/24/bspacer.gif"
+      },
+      "description": "Web Request: GET /cl/24/bspacer.gif"
+    },
+    {
+      "id": 115,
+      "timestamp": 1388111488.135265,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www1.v5ipk3gc8hug1du9459.4pu.com"
+      },
+      "description": "DNS Question: What is the IP for www1.v5ipk3gc8hug1du9459.4pu.com?"
+    },
+    {
+      "id": 116,
+      "timestamp": 1388111488.250908,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www1.v5ipk3gc8hug1du9459.4pu.com",
+        "ip": "188.116.34.246"
+      },
+      "description": "DNS Answer: www1.v5ipk3gc8hug1du9459.4pu.com is at 188.116.34.246"
+    },
+    {
+      "id": 117,
+      "timestamp": 1388111495.476324,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/lwAqsHmx.jar"
+      },
+      "description": "Web Request: GET /lwAqsHmx.jar"
+    },
+    {
+      "id": 118,
+      "timestamp": 1388111495.481731,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/lwAqsHmx.jar"
+      },
+      "description": "Web Request: GET /lwAqsHmx.jar"
+    },
+    {
+      "id": 119,
+      "timestamp": 1388111496.126427,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "www2.q9g7p91agtymil024yd.jvvg.org"
+      },
+      "description": "DNS Question: What is the IP for www2.q9g7p91agtymil024yd.jvvg.org?"
+    },
+    {
+      "id": 120,
+      "timestamp": 1388111496.311715,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "www2.q9g7p91agtymil024yd.jvvg.org",
+        "ip": "188.116.34.246"
+      },
+      "description": "DNS Answer: www2.q9g7p91agtymil024yd.jvvg.org is at 188.116.34.246"
+    },
+    {
+      "id": 121,
+      "timestamp": 1388111496.526368,
+      "type": "HTTP Request",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "188.116.34.246",
+      "details": {
+        "method": "GET",
+        "uri": "/?c2i9ll04d=h5XWnanRqJmK5qLLdKFqaZeXmu3h1alkY2ivl5Nqn3Ki0Fao165qmm%2BoamKSm6uyk9XfbWRoqorElMurqb6Ef4rhost0o1%2BkhQ%3D%3D&h=16"
+      },
+      "description": "Web Request: GET /?c2i9ll04d=h5XWnanRqJmK5qLLdKFqaZeXmu3h1alkY2ivl5Nqn3Ki0Fao165qmm%2BoamKSm6uyk9XfbWRoqorElMurqb6Ef4rhost0o1%2BkhQ%3D%3D&h=16"
+    },
+    {
+      "id": 122,
+      "timestamp": 1388111518.668555,
+      "type": "DNS Query",
+      "source_ip": "192.168.1.138",
+      "dest_ip": "192.168.1.2",
+      "details": {
+        "query": "javadl-esd-secure.oracle.com"
+      },
+      "description": "DNS Question: What is the IP for javadl-esd-secure.oracle.com?"
+    },
+    {
+      "id": 123,
+      "timestamp": 1388111518.693348,
+      "type": "DNS Response",
+      "source_ip": "192.168.1.2",
+      "dest_ip": "192.168.1.138",
+      "details": {
+        "domain": "e5486.g.akamaiedge.net",
+        "ip": "23.204.208.60"
+      },
+      "description": "DNS Answer: e5486.g.akamaiedge.net is at 23.204.208.60"
+    }
+  ],
+  "links": [
+    {
+      "source": 55,
+      "target": 56,
+      "label": "answers"
+    },
+    {
+      "source": 55,
+      "target": 57,
+      "label": "answers"
+    },
+    {
+      "source": 55,
+      "target": 58,
+      "label": "answers"
+    },
+    {
+      "source": 55,
+      "target": 59,
+      "label": "answers"
+    },
+    {
+      "source": 55,
+      "target": 60,
+      "label": "answers"
+    },
+    {
+      "source": 1,
+      "target": 61,
+      "label": "carries"
+    },
+    {
+      "source": 65,
+      "target": 69,
+      "label": "answers"
+    },
+    {
+      "source": 68,
+      "target": 70,
+      "label": "answers"
+    },
+    {
+      "source": 63,
+      "target": 71,
+      "label": "answers"
+    },
+    {
+      "source": 66,
+      "target": 72,
+      "label": "answers"
+    },
+    {
+      "source": 15,
+      "target": 74,
+      "label": "carries"
+    },
+    {
+      "source": 67,
+      "target": 75,
+      "label": "answers"
+    },
+    {
+      "source": 14,
+      "target": 76,
+      "label": "carries"
+    },
+    {
+      "source": 64,
+      "target": 78,
+      "label": "answers"
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "label": "answers"
+    },
+    {
+      "source": 64,
+      "target": 79,
+      "label": "answers"
+    },
+    {
+      "source": 77,
+      "target": 79,
+      "label": "answers"
+    },
+    {
+      "source": 29,
+      "target": 80,
+      "label": "carries"
+    },
+    {
+      "source": 5,
+      "target": 81,
+      "label": "carries"
+    },
+    {
+      "source": 13,
+      "target": 82,
+      "label": "carries"
+    },
+    {
+      "source": 27,
+      "target": 83,
+      "label": "carries"
+    },
+    {
+      "source": 6,
+      "target": 84,
+      "label": "carries"
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "label": "answers"
+    },
+    {
+      "source": 31,
+      "target": 87,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 88,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 89,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 90,
+      "label": "carries"
+    },
+    {
+      "source": 33,
+      "target": 94,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 95,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 96,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 97,
+      "label": "carries"
+    },
+    {
+      "source": 37,
+      "target": 98,
+      "label": "carries"
+    },
+    {
+      "source": 38,
+      "target": 99,
+      "label": "carries"
+    },
+    {
+      "source": 39,
+      "target": 100,
+      "label": "carries"
+    },
+    {
+      "source": 41,
+      "target": 101,
+      "label": "carries"
+    },
+    {
+      "source": 40,
+      "target": 102,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 103,
+      "label": "carries"
+    },
+    {
+      "source": 37,
+      "target": 104,
+      "label": "carries"
+    },
+    {
+      "source": 38,
+      "target": 105,
+      "label": "carries"
+    },
+    {
+      "source": 39,
+      "target": 106,
+      "label": "carries"
+    },
+    {
+      "source": 41,
+      "target": 107,
+      "label": "carries"
+    },
+    {
+      "source": 40,
+      "target": 108,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 109,
+      "label": "carries"
+    },
+    {
+      "source": 37,
+      "target": 110,
+      "label": "carries"
+    },
+    {
+      "source": 39,
+      "target": 111,
+      "label": "carries"
+    },
+    {
+      "source": 41,
+      "target": 112,
+      "label": "carries"
+    },
+    {
+      "source": 40,
+      "target": 113,
+      "label": "carries"
+    },
+    {
+      "source": 31,
+      "target": 114,
+      "label": "carries"
+    },
+    {
+      "source": 85,
+      "target": 116,
+      "label": "answers"
+    },
+    {
+      "source": 115,
+      "target": 116,
+      "label": "answers"
+    },
+    {
+      "source": 47,
+      "target": 117,
+      "label": "carries"
+    },
+    {
+      "source": 48,
+      "target": 118,
+      "label": "carries"
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "label": "answers"
+    },
+    {
+      "source": 51,
+      "target": 121,
+      "label": "carries"
+    }
+  ],
+  "metadata": {
+    "file_name": "eded934abb0e42e18db34e17309b95d9_EK_MALWARE_2013-12-27_mailware-traffic-analysis.net.pcap",
+    "extraction_date": "2026-03-08T14:36:48.690835"
+  }
+}
